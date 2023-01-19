@@ -3,7 +3,7 @@
 Je suis graphiste et developpeuse Front End.
 
 ### connec with me:
-[!img_contact]([./img/linkedin.svg](https://github.com/rayhearth/rayhearth/blob/main/img/linkedin.svg))[https://github.com/rayhearth.com#gh-light-mode-only)
+[![img_contact](./img/linkedin.svg)](https://github.com/rayhearth.com#gh-light-mode-only)
 
 
 <!--
