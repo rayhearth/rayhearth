@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello ou Bonjour  👋
+
+Je suis graphiste et developpeuse Front End.
+
+### connec with me:
+
+
 
 <!--
 **rayhearth/rayhearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
