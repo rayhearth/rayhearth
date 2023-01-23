@@ -1,7 +1,7 @@
-<h1 align="center">Hello! Je suis Emmanuelle Jupon 👋</h1>
+<h1 align="center">Hello! Je m'appelle Emmanuelle Jupon 👋</h1>
 
 
-Graphiste et developpeuse Front End.
+Je suis graphiste et développeuse front end.
 _________
 ## 📫 Contact me:  
 
