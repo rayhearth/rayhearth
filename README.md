@@ -3,17 +3,17 @@
 Graphiste et developpeuse Front End.
 _________
 ## 📫 Contact me:
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-light-mode-only)
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-dark-mode-only)  
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-light-mode-only)
+- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-dark-mode-only)  
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rayhearth/) -->
-<a href="https://github.com/rayhearth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+- <a href="https://github.com/rayhearth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 
   <a href="https://jemma-design.fr/" target="_blank"><p>Mon portfolio</p><img alt="website jemma-design portfolio" src="https://github.com/rayhearth/rayhearth/blob/main/img/siteweb.svg" width=20px /></a>
 
 _________
 ## Languages et software
 
-## Basics  
+# Basics  
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
@@ -22,7 +22,7 @@ _________
 </p>
 
 
-## Front  
+# Front  
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
