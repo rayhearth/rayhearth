@@ -75,9 +75,8 @@ _________
   </a>
 </p>
 
-##Stats  
-[![Rayhearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhearth&hide=contribs,prs)
-
+## Stats  
+[![Rayhearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhearth&count_private=true&show_icons=true&theme=algolia)](https://github.com/rayhearth/github-readme-stats)
 <!--
 **rayhearth/rayhearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
