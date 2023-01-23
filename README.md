@@ -6,7 +6,7 @@ _________
 ## 📫 Contact me:  
 
 [![img_contact](./img/globe-light.svg)](https://https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-light-mode-only)
-[![img_contact](./img/linkedin-dark.svg)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-dark-mode-only)
+[![img_contact](https://github.com/rayhearth/rayhearth/blob/main/img/linkedin-dark.svg)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-dark-mode-only)
 &nbsp;&nbsp;
 <a href="https://github.com/rayhearth" target="_blank"><img alt="Github"
     src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
