@@ -3,9 +3,8 @@
 Je suis graphiste et developpeuse Front End.
 
 ### Connect with me:
-[![img_contact](https://github.com/rayhearth/rayhearth/blob/main/img/linkedin.svg |width=40px)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
-
-
+[![img_contact](https://github.com/rayhearth/rayhearth/blob/main/img/linkedin.svg|width=40px)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
+<img src="[https://your-image-url.type](https://github.com/rayhearth/rayhearth/blob/main/img/linkedin.svg)" width="40" height="40/>
 
 <!--
 **rayhearth/rayhearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
