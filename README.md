@@ -1,8 +1,8 @@
-### Hello ou Bonjour! Je suis Emmanuelle Jupon  👋
+# Hello ou Bonjour! Je suis Emmanuelle Jupon  👋
 
 Graphiste et developpeuse Front End.
 _________
-### 📫 Contact me:
+## 📫 Contact me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-light-mode-only)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-dark-mode-only)  
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rayhearth/) -->
@@ -11,6 +11,15 @@ _________
   <a href="https://jemma-design.fr/" target="_blank"><p>Mon portfolio</p><img alt="website jemma-design portfolio" src="https://github.com/rayhearth/rayhearth/blob/main/img/siteweb.svg" width=20px /></a>
 
 _________
+##Languages et software  
+
+##Basics  
+<p alihn="center">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+</p>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)  
+
+##Front  
 
 
 <!--
