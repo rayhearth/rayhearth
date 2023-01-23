@@ -3,7 +3,7 @@
 Je suis graphiste et developpeuse Front End.
 
 ### Connect with me:
-[![img_contact](https://github.com/rayhearth/rayhearth/blob/main/img/linkedin.svg | width=40px)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
+[![img_contact](https://github.com/rayhearth/rayhearth/blob/main/img/linkedin.svg|width=40px)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
 
 
 
