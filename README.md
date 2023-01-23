@@ -11,13 +11,13 @@ _________
   <a href="https://jemma-design.fr/" target="_blank"><p>Mon portfolio</p><img alt="website jemma-design portfolio" src="https://github.com/rayhearth/rayhearth/blob/main/img/siteweb.svg" width=20px /></a>
 
 _________
-## Languages et software  
+[center]## Languages et software[/center]
 
 ## Basics  
-<p alihn="center">
+<p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"  rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 </p>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
 
 ## Front  
 
