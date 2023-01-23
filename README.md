@@ -1,9 +1,11 @@
-### Hello ou Bonjour  👋
+### Hello ou Bonjour! Je suis Emmanuelle Jupon  👋
 
-Je suis graphiste et developpeuse Front End.
+Graphiste et developpeuse Front End.
 
-### Connect with me:
+### 📫 Contact me:
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
+&nbsp;
+[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rayhearth/)
 
 <!--
 **rayhearth/rayhearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
