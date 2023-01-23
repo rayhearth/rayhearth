@@ -5,10 +5,12 @@ Je suis graphiste et développeuse front end.
 _________
 ## 📫 Contact me:  
 
-- [![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
-- <a href="https://github.com/rayhearth" target="_blank"><img alt="Github"
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png)LinkedIn](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
+&nbsp;&nbsp;
+<a href="https://github.com/rayhearth" target="_blank"><img alt="Github"
     src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-- <a href="https://jemma-design.fr/" target="_blank">✨Mon portfolio✨</a>
+&nbsp;&nbsp;
+<a href="https://jemma-design.fr/" target="_blank">✨Mon portfolio✨</a>
 
 _________
 ## Languages et software
