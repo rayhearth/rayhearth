@@ -64,7 +64,7 @@ _________
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/git-bash.svg" alt="git" width="40" height="40" /> </a>
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/jest-2.svg" alt="jest" width="40" height="40" /> </a>
+      src="https://github.com/rayhearth/rayhearth/blob/main/img/jest-2.svg" alt="jest" width="60" height="60" /> </a>
   <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/gitkraken.svg" alt="gitkraken" width="40" height="40" />
   </a>
@@ -74,6 +74,9 @@ _________
       src="https://github.com/rayhearth/rayhearth/blob/main/img/reactquery.svg" alt="redux" width="40" height="40" />
   </a>
 </p>
+
+##Stats  
+[![Rayhearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhearth&hide=contribs,prs)
 
 <!--
 **rayhearth/rayhearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
