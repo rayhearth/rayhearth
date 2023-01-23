@@ -8,7 +8,7 @@ Graphiste et developpeuse Front End.
 <!-- [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/rayhearth/) -->
 <a href="https://github.com/rayhearth" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /> 
   
-  <a href="https://jemma-design.fr/" target="_blank"><img alt="website jemma-design portfoli" src="https://github.com/rayhearth/rayhearth/blob/main/img/siteweb.svg" Mon portfolio réalisé en html, less et jQuery width=20px /> 
+  <a href="https://jemma-design.fr/" target="_blank"><img alt="website jemma-design portfoli" src="https://github.com/rayhearth/rayhearth/blob/main/img/siteweb.svg" width=20px /> <p>Mon portfolio</p>
   
 
 
