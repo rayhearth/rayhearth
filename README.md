@@ -79,7 +79,7 @@ _________
 
 _________
 ## Stats  
-[![Rayhearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhearth&count_private=true&show_icons=true&theme=radical)](https://github.com/rayhearth/rayhearth/github-readme-stats)  
+[![Rayhearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhearth&count_private=true&show_icons=true&theme=radical)](https://github.com/rayhearth/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhearth&langs_count=8&layout=compact&theme=radical)](https://github.com/rayhearth/github-readme-stats)  
 
 ![Alt](https://repobeats.axiom.co/api/embed/3f7df1945ec420dc243ff0313e94e18a535bbd1d.svg "Repobeats analytics image")
