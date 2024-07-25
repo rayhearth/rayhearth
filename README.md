@@ -5,8 +5,8 @@ Je suis graphiste et développeuse front end.
 _________
 ## 📫 Contact me:  
 
-[![LinkedIn Logo](https://www.linkedin.com)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/#gh-dark-mode-only)
-&nbsp;&nbsp;
+[![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
+
 <a href="https://github.com/rayhearth" target="_blank"><img alt="Github"
     src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 &nbsp;&nbsp;
