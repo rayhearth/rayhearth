@@ -7,7 +7,7 @@ Je m'efforce de livrer des projets visuellement convaincants et fidèles aux sp�
 
 Mes technologies préférées incluent HTML5, CSS3, JavaScript, et React, avec une expertise en Sass.
 
-Explorez mes dépôts GitHub pour découvrir comment je combine esthétique et performance technique dans chacun de mes projets.
+Explorez mes dépôts GitHub pour découvrir comment je combine esthétisme et performance technique dans chacun de mes projets.
 _________
 ## 📫 Contact me:  
 
