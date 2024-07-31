@@ -11,7 +11,7 @@ _________
  <a href="https://github.com/rayhearth" target="_blank">
      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
       height="40"/></a> -- 
-<a href="https://jemma-design.fr/" target="_blank" height="40">✨Mon portfolio✨</a>
+      [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jemma-design.fr)
 
 _________
 ## Languages et software
