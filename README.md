@@ -21,7 +21,7 @@ _________
 <h3 align="center">Basiques</h3> 
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/html5.svg" alt="html5" width="40" height="40" /> </a>  
+      src="https://github.com/rayhearth/rayhearth/blob/main/img/html5.svg" alt="html5" width="40" height="40" /> </a>    
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/css3.svg" alt="css3" width="40" height="40" /> </a>  
   <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img
@@ -34,10 +34,10 @@ _________
 <h3 align="center">Design</h3>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/figma.svg" alt="figma" width="40" height="40" /> </a>
+      src="https://github.com/rayhearth/rayhearth/blob/main/img/figma.svg" alt="figma" width="40" height="40" /> </a>  
   <a href="https://www.adobe.com/fr/creativecloud.html" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/photoshop.svg" alt="photoshop" width="40" height="40" />
-  </a>
+  </a>  
   <a href="https://www.adobe.com/fr/creativecloud.html" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/illustrator.svg" alt="illustrator" width="40"
       height="40" /> </a>
@@ -45,7 +45,7 @@ _________
 
 
 <h3 align="center">Front</h3>
-<p  display="flex" align-items="center" justify-content="center">
+<p  align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
       alt="bootstrap" width="40" height="40" /> </a>
@@ -70,17 +70,17 @@ _________
 <h3 align="center">Others</h3> 
 <p align="center">
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/git-bash.svg" alt="git" width="40" height="40" /> </a>
+      src="https://github.com/rayhearth/rayhearth/blob/main/img/git-bash.svg" alt="git" width="40" height="40" /> </a>  
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/jest-2.svg" alt="jest" width="40" height="40" /> </a>
+      src="https://github.com/rayhearth/rayhearth/blob/main/img/jest-2.svg" alt="jest" width="40" height="40" /> </a>  
   <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/gitkraken.svg" alt="gitkraken" width="40" height="40" />
-  </a>
+  </a>  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/redux.svg" alt="redux" width="40" height="40" /> </a>
+      src="https://github.com/rayhearth/rayhearth/blob/main/img/redux.svg" alt="redux" width="40" height="40" /> </a>  
   <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/reactquery.svg" alt="redux" width="40" height="40" />
-  </a>
+  </a>  
 </p>
 
 _________
