@@ -1,7 +1,7 @@
 <h1 align="center">Hello! Je m'appelle Emmanuelle Jupon 👋</h1>
 
 
-Je suis développeuse front-end spécialisée dans le développement créatif, le coeur de mes compétences est d'allier l'esthétisme et le technique. Mes projets intègrent des animations et des interactions complexes mais fluides, offrant une expérience utilisateur attrayante et accessible à toutes les technologies.
+Je suis développeuse front-end spécialisée dans le développement créatif, le coeur de mon métier est d'allier l'esthétisme et le technique. Mes projets intègrent des animations et des interactions complexes mais fluides, offrant une expérience utilisateur attrayante et accessible à toutes les technologies.
 
 Je m'efforce de livrer des projets visuellement convaincants et fidèles aux spécifications des concepteurs, tout en maintenant une excellence technique avec un code propre et bien organisé. Mon travail inclut également une attention particulière aux performances web et aux aspects techniques SEO.
 
