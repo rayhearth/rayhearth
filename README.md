@@ -92,10 +92,10 @@ _________
   <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/reactquery.svg" alt="redux" width="40" height="40" />
   </a>  
-</p>
+</div>
 
 _________
-## Stats  
+## My Github Stats  
 [![Rayhearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhearth&count_private=true&show_icons=true&theme=radical)](https://github.com/rayhearth/github-readme-stats)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhearth&langs_count=8&layout=compact&theme=radical)](https://github.com/rayhearth/github-readme-stats)  
 
