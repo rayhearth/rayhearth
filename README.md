@@ -24,8 +24,11 @@ _________
 _________
 ## Languages et software
 
-<h3 align="center">Basiques</h3> 
-<p align="center">
+<h2 align="center">My Techs & Tools</h2> 
+<div align="center">
+    ![](https://img.shields.io/badge/OS-Linux-8FFF86?style=flat-square&logoColor=ffffff&logo=linux)
+
+    
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/html5.svg" alt="html5" width="40" height="40" /> </a>    
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
@@ -35,9 +38,9 @@ _________
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/javascript.svg" alt="javascript" width="40"
       height="40" /> </a>
-</p>
+</div>
 
-<h3 align="center">Design</h3>
+<h2 align="center">Design</h2>
 <p align="center">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/figma.svg" alt="figma" width="40" height="40" /> </a>  
@@ -50,7 +53,7 @@ _________
 </p>
 
 
-<h3 align="center">Front</h3>
+<h2 align="center">Front</h2>
 <p  align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg"
@@ -63,7 +66,7 @@ _________
       alt="vitejs" width="40" height="40" /> </a>
 </p>
 
-<h3 align="center"> Backend</h3>
+<h2 align="center"> Backend</h2>
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
