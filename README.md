@@ -11,7 +11,9 @@ _________
  <a href="https://github.com/rayhearth" target="_blank">
      <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
       height="40"/></a> -- 
-      [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://jemma-design.fr)
+<a href="https://jemma-desin.fr" target="_blank">
+     <img alt="Jemma" src="[https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)"
+      height="40"/></a> -- 
 
 _________
 ## Languages et software
