@@ -10,7 +10,7 @@ _________
       height="40"/>
 </a>
 <a href="https://github.com/rayhearth" target="_blank"><img alt="Github"
-    src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" width="40"
+    src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white"
       height="40"/></a>
 &nbsp;&nbsp;
 <a href="https://jemma-design.fr/" target="_blank">✨Mon portfolio✨</a>
