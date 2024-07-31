@@ -5,8 +5,9 @@ Je suis graphiste et développeuse front end.
 _________
 ## 📫 Contact me:  
 
-[![](https://img.shields.io/badge/-linkedin-8FFF86?style=for-the-badge&logoColor=0f0f0f&logo=linkedin)](https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/)
-
+<a href="https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+</a>
 <a href="https://github.com/rayhearth" target="_blank"><img alt="Github"
     src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
 &nbsp;&nbsp;
@@ -49,6 +50,9 @@ _________
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
       alt="react" width="40" height="40" /> </a>
+  <a href="https://vitejs.dev/guide/" target="_blank" rel="noreferrer"> <img
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg"
+      alt="vitejs" width="40" height="40" /> </a>
 </p>
 
 <h3 align="center"> Backend</h3>
