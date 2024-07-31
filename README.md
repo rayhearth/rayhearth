@@ -5,7 +5,7 @@ Je suis graphiste et développeuse front end.
 _________
 ## 📫 Contact me:  
 
-<div class= "container" display="flex" gap="20px">
+<div class= "container" display="flex" ajin-item="center" gap="20px">
 <a href="https://www.linkedin.com/in/emmanuelle-jupon-11b24a7b/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40"
       height="40"/>
