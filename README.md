@@ -25,10 +25,7 @@ _________
 ## Languages et software
 
 <h2 align="center">My Techs & Tools</h2> 
-<div align="center">
-    ![](https://img.shields.io/badge/OS-Linux-8FFF86?style=flat-square&logoColor=ffffff&logo=linux)
-
-    
+<div align="center">   
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/html5.svg" alt="html5" width="40" height="40" /> </a>    
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
