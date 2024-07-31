@@ -73,11 +73,11 @@ _________
       src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /> </a>  
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/git-bash.svg" alt="git" width="40" height="40" /> </a>  
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/jest-2.svg" alt="jest" width="40" height="40" /> </a>  
   <a href="https://www.gitkraken.com/" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/gitkraken.svg" alt="gitkraken" width="40" height="40" />
   </a>  
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
+      src="https://github.com/rayhearth/rayhearth/blob/main/img/jest-2.svg" alt="jest" width="40" height="40" /> </a>  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/redux.svg" alt="redux" width="40" height="40" /> </a>  
   <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img
