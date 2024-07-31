@@ -61,10 +61,10 @@ _________
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg"
-      alt="mongodb" height="40" /> </a>  
+      alt="mongodb" height="60" /> </a>  
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" height="40" /> </a>
+      alt="nodejs" height="60" /> </a>
 </p>
 
 <h3 align="center">Others</h3> 
