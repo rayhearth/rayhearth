@@ -77,7 +77,7 @@ _________
       src="https://github.com/rayhearth/rayhearth/blob/main/img/gitkraken.svg" alt="gitkraken" width="40" height="40" />
   </a>  
   <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img
-      src="https://github.com/rayhearth/rayhearth/blob/main/img/jest-2.svg" alt="jest" height="40" /> </a>  
+      src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" alt="jest" height="40" /> </a>  
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img
       src="https://github.com/rayhearth/rayhearth/blob/main/img/redux.svg" alt="redux" width="40" height="40" /> </a>  
   <a href="https://react-query-v3.tanstack.com/" target="_blank" rel="noreferrer"> <img
