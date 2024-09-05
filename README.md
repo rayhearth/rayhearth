@@ -99,6 +99,18 @@ _________
 [![Rayhearth's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayhearth&count_private=true&show_icons=true&theme=radical)](https://github.com/rayhearth/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rayhearth&langs_count=8&layout=compact&theme=radical)](https://github.com/rayhearth/github-readme-stats)  
 
 ![Alt](https://repobeats.axiom.co/api/embed/3f7df1945ec420dc243ff0313e94e18a535bbd1d.svg "Repobeats analytics image")
+
+###
+<div align="center">
+<img src="https github-readme-stats.vercel.app/api?username=rayhearth&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale-en&hide_border=false" height="150" alt="stats graph"/>
+<img src="httpsgithub-readme-stats.vercel.app/api/top-lang?api?username=rayhearth&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="1500" alt="languages graph"/>    
+</div>
+
+###
+
+<br clear="both">
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+    
 <!--
 **rayhearth/rayhearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
